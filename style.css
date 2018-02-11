@@ -81,7 +81,7 @@ body {
   margin: 5px auto 0 auto;
   font-size: 78px;
   text-align: center;
-  color: #fff;
+  color: #000;
   text-shadow: 0 3px 0 #dadada, 0 1px 0 #dadada, 0 2px 0 #dadada, 0 3px 5px rgba(0, 0, 0, 0.5);
 }
 .content .logo {
@@ -107,7 +107,7 @@ body {
   height: auto;
   margin: 0 auto;
   top: -10px;
-  color: #fff;
+  color: #000;
   font-size: 38px;
   text-align: center;
   text-shadow: 0 3px 0 #dadada, 0 1px 0 #dadada, 0 2px 0 #dadada, 0 3px 5px rgba(0, 0, 0, 0.5);
@@ -181,7 +181,7 @@ body {
   font-size: 17px;
   line-height: 36px;
   border-radius: 3px;
-  background: #7474BF;
+  background: #ef0c32;
 }
 .content .block a:hover {
   background: #7e7ec4;
