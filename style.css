@@ -2,7 +2,7 @@
 .hide {
   opacity: 0;
 }
-body {
+ body {
   font-family: 'Roboto Condensed', sans-serif;
 }
 .slideIn_Mobile {
@@ -58,16 +58,16 @@ body {
             transform: scale(1);
   }
 }
-/****************/
+/**************/
 body {
   overflow-x: hidden;
   margin: 0;
   padding: 0;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
-  -webkit-perspective: 1000;
+/**   -webkit-perspective: 1000; **/
           perspective: 1000;
- ## background: linear-gradient(45deg, #755b9e 0%, #a9fbff 100%);
+/** background: linear-gradient(45deg, #755b9e 0%, #a9fbff 100%); **/
 }
 .content {
   position: relative;
@@ -298,7 +298,7 @@ body {
   border-radius: 17px;
   -webkit-box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.1);
           box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.1);
-  background-color: #fff;
+  background-color: #2ea3f2;
   z-index: 1000;
 }
 ::-moz-selection {
