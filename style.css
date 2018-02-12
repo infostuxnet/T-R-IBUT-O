@@ -2,9 +2,9 @@
 .hide {
   opacity: 0;
 }
- body {
+ /** body {
   font-family: 'Roboto Condensed', sans-serif;
-}
+} **/
 .slideIn_Mobile {
   opacity: 1;
   -webkit-animation: slideIn_Mobile .6s;
